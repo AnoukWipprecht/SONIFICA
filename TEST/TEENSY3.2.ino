@@ -3,6 +3,7 @@
 #include <Wire.h>
 #include <SPI.h>
 #include <SerialFlash.h>
+//puredata https://forum.pjrc.com/threads/24793-Audio-Library?p=50653&viewfull=1#post50653
 //check if there is a missing library for bounce check 
 //https://github.com/PaulStoffregen/Audio
 //https://www.pjrc.com/teensy/td_libs_Audio.html
