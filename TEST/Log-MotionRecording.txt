@@ -1,0 +1,6 @@
+Quick notes:
+We are using the arduino101 as a prototypic board to gesture recognize with the accelerometer and ESP to visualize how the 
+board is moving according to its attachment for fine-tuning of actuating notes or sound triggers.
+
+
+https://create.arduino.cc/projecthub/mellis/gesture-recognition-using-accelerometer-and-esp-71faa1
